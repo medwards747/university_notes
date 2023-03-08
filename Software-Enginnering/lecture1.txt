@@ -1,0 +1,137 @@
+Definitions-
+
+Software Engineeering- The establishment and use of sound engineering principles in order to 
+economically obtain software that is reliable and works efficiently on real machines.
+
+Software Enginnering- The application of a systematic, disciplined, operation, and 
+maintenenance of software; that is, the application of engineering software.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Notes- What are the key takeaways from the definition of Software Engineering? (sound 
+engineering principles) (economically) (reliable) (works efficiently on real machines)
+´(systematic, disciplined quantifiable)(development, operation and maintenance)
+
+Challenges of Software-
+	* Software is soft and intangible. quite different from the physical devices that 
+mechanical engineers design and construct.
+	* There are few if any laws of software that can be universally applied. Software 
+engineers have not arrived at a consensus about how t measure their product's properties
+	* Software is not mass produced. Other commodities such as automobiles are 
+engineered for mass production. Although they can accomaodate customized accesories their 
+basic designs are used repeatedly. Not so with software. Even if you have millions of 
+consumers you only build on program.
+	* The specifications of software continuously change. even late in the development 
+cycle
+
+	
+Processes - Specification
+	* Software Engineering begins with a problem statement.
+		* "I want you to build me X"
+	*Internal v. External
+	*Experienced v. Inexperienced
+	*Customer/User/Management
+	*Feasability Study
+	*Time and prioritizaition
+	*Resources
+	*Expertise
+	*Final decision using all of this information as input to determine whether project 
+should go ahead or stall
+	*Requirements elicitation
+		*Customers
+		*DEV team
+		*QA team
+	*Requirements analysis
+		*Existing systems/data(can a preexisting solution fit the need?)
+		*Prototypes(spike solutions, build simplest possible solution to test if 
+fits specifications)
+	*Requirements validation
+		*Realism
+		*consistency
+		*Completeness
+	*Results in specification documents
+		*Translates the elicitation and analysis into one or more documents or contracts
+		*High level
+	*Problem Definition
+	*User stories
+	*Workflows
+	*Deliverables
+		*More detailed
+	*Systems
+		*Typically will already exist and you must map your solution to what is available
+	*Software Architecture
+
+Processes - Design and Implementation
+	*Design and related initial development
+		*Architecture
+	*Components
+	*Interfaces
+	*Database
+	*When UML is used, it is commonly used at this stage as a menas to depict;
+		*Software architecture
+		*Database schema
+	*One way to understand this process is as the activity of converting the high level 
+requirements obtained during the specification process into more detailed and accomplishable 
+tasks
+		*Clearly defined and easily digestible tasks will be created, assigned, and 
+implemented
+
+	*May have already created some prototypes
+	*Side note: Initial development may see very few interesting products
+		*Instead this is the stage of building the system skeleton that will support 
+all the actions and controls that make software useful
+		*The framework will set the tone of the project
+
+Processes - Verification and Validation
+	*Code reviews
+	*Test Driven Development (TDD)
+	*Shared Testing
+		*DEVs test the functionality implemented by other team members
+	*System testing
+		*Environments - Dev, Test, QA and Production (Live)
+	*Acceptance testing
+		*Necessary but sometimes difficult to facilitate
+	*Testers/users already have a job and won't have time to perform the amount of 
+detailed testing that is usually required.
+	*Testers/users may not have much technical expertise (or too much to be 
+representative of an uninitiated user).
+
+Processes - Evolution
+	*Depending on your workplace, more often than new development you will be asked to 
+make changes to existing, legacy, systems.
+		*This can be big difference from the work you perform in a educational setting.
+	*It can be difficult to modify legacy systems.
+		*Data, APIs, UI, Etc.
+		*Even small changes can have large and/or unforeseen consequences.
+		*There are ways to mitigate these consequences which will be covered later
+
+Change
+	*Software engineering is all about dealing with change.
+		*Building new concepts out of thin ait.
+		*Updating existing systems to include radically new features.
+		*Good software engineers are distinguished by their ability to preapre for 
+and effectively implement change
+	*Avoidance
+		*Exploration of problems through prototyping and related methodologies
+		*Will always be incomplete
+	*Tolerance
+		*Design of systems
+		*Will be discussed through the semester
+	*Need both
+
